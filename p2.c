@@ -1,3 +1,4 @@
+//program to find the product of two polynomials using array
 #include<stdio.h>
 #include<stdlib.h>
 int* prod(int *p,int r,int *q,int s);
