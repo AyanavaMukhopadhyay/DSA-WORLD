@@ -1,3 +1,4 @@
+//program to add two plynomials using array
 #include<stdio.h>
 #include<stdlib.h>
 int* add(int *p,int r,int *q,int s);
